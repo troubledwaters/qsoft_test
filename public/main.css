@@ -87,7 +87,9 @@ body {
   .header__search-form {
     margin-right: 50px; }
   .header__search-img {
-    left: 12px; } }
+    left: 12px; }
+  .header__client-name {
+    margin-right: 11px; } }
 
 @media (max-width: 767.98px) {
   .header-wrapper {

@@ -120,6 +120,10 @@ body {
         left: 12px;
     }
 
+    .header__client-name {
+        margin-right: 11px;
+    }
+
     
 }
 
@@ -192,15 +196,10 @@ body {
     justify-content: flex-start;
 }
 
-// .our-partners__labels-container::after {
-//     content: "";
-//     flex: 0 0 23%
-// }
 
 .our-partners__label {
     width: 23.07%; //пусть пока так
     height: 120px;
-    // background-color: lightblue;
     margin-bottom: 30px;
     margin-left: 30px;
     cursor: pointer;
